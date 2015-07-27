@@ -1,0 +1,27 @@
+{
+  "name": "hubot-word-vector-script",
+  "version": "0.0.1",
+  "description": "word-vector-web-api wrapper for hubot",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knjcode/hubot-word-vector-script.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "word",
+    "vector",
+    "word2vec"
+  ],
+  "author": {
+    "name": "knjcode",
+    "mail": "knjcode@gmail.com",
+    "url": "https://blog.knjcode.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knjcode/hubot-word-vector-script/issues"
+  },
+  "homepage": "https://github.com/knjcode/hubot-word-vector-script"
+}
